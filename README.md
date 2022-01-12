@@ -20,4 +20,9 @@ atomで追加
 これは`code block within a line`です
 
 ```cs
-string a="これはC#(cs)初期のブロック";```
+string a="これはC#(cs)初期のブロック";
+```
+
+## リンク
+
+[]
