@@ -27,7 +27,6 @@
 ## 作品リスト
 
 ### 作品名1
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
 
 [作品名1]()
 
@@ -37,7 +36,6 @@
 - 開発期間：
 
 ### 作品名2
-[<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
 
 [作品名2]()
 
@@ -49,6 +47,3 @@
 
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
-
-T
